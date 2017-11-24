@@ -38,5 +38,12 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'Masonry'
+  s.dependency 'YYWebImage'
+  s.dependency 'ReactiveCocoa', '~>4.0.4-alpha-4'
+  s.dependency 'FFCategoryKit'
+  s.dependency 'FFMainViewKit'
+  s.dependency 'FFAPIs'
+  s.dependency 'FFConfigsKit'
+  s.dependency 'FFReformerKeysKit'
 end
